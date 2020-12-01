@@ -3,7 +3,7 @@ html {
   color: white;
 }
 
-p {
+h1 {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   font-weight: normal;
   font-size: 35px;
@@ -14,7 +14,7 @@ a {
   font-size: 16px;
 }
 
-#section1 {
+.header {
   display: flex;
   align-items: center;
   justify-content: center;
