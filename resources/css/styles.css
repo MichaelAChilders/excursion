@@ -2,3 +2,21 @@ html {
   background: black;
   color: white;
 }
+
+p {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: normal;
+  font-size: 35px;
+}
+
+a {
+  color: aquamarine;
+  font-size: 16px;
+}
+
+#section1 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
