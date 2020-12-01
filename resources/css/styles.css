@@ -34,3 +34,8 @@ p {
   color: gray;
   font-size: 21px;
 }
+
+footer p {
+  text-align: right;
+  color: gray;
+}
