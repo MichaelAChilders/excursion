@@ -1,5 +1,7 @@
-html {
-  background: black;
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
+  background-color: black;
   color: white;
 }
 
@@ -12,20 +14,6 @@ h1 {
 a {
   color: aquamarine;
   font-size: 16px;
-}
-
-.header {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  flex-direction: column;
-}
-
-.middle {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  flex-direction: column;
 }
 
 h2 {
@@ -41,6 +29,8 @@ span {
   color: gray;
   padding: 1rem 0;
 }
-img {
-  width: 70%;
+
+p {
+  color: gray;
+  font-size: 21px;
 }
